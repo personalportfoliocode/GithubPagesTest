@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/GitHubPagesTest/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/GitHubPagesTest/static/js/main.dca8a5cc.chunk.js",
-    "main.js.map": "/GitHubPagesTest/static/js/main.dca8a5cc.chunk.js.map",
-    "runtime-main.js": "/GitHubPagesTest/static/js/runtime-main.5e962450.js",
-    "runtime-main.js.map": "/GitHubPagesTest/static/js/runtime-main.5e962450.js.map",
-    "static/js/2.ca1bc8be.chunk.js": "/GitHubPagesTest/static/js/2.ca1bc8be.chunk.js",
-    "static/js/2.ca1bc8be.chunk.js.map": "/GitHubPagesTest/static/js/2.ca1bc8be.chunk.js.map",
-    "static/js/3.63ce4aa5.chunk.js": "/GitHubPagesTest/static/js/3.63ce4aa5.chunk.js",
-    "static/js/3.63ce4aa5.chunk.js.map": "/GitHubPagesTest/static/js/3.63ce4aa5.chunk.js.map",
-    "index.html": "/GitHubPagesTest/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/GitHubPagesTest/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ca1bc8be.chunk.js.LICENSE.txt": "/GitHubPagesTest/static/js/2.ca1bc8be.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/GitHubPagesTest/static/media/logo.6ce24c58.svg"
+    "main.css": "/GithubPagesTest/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/GithubPagesTest/static/js/main.dca8a5cc.chunk.js",
+    "main.js.map": "/GithubPagesTest/static/js/main.dca8a5cc.chunk.js.map",
+    "runtime-main.js": "/GithubPagesTest/static/js/runtime-main.10288847.js",
+    "runtime-main.js.map": "/GithubPagesTest/static/js/runtime-main.10288847.js.map",
+    "static/js/2.ca1bc8be.chunk.js": "/GithubPagesTest/static/js/2.ca1bc8be.chunk.js",
+    "static/js/2.ca1bc8be.chunk.js.map": "/GithubPagesTest/static/js/2.ca1bc8be.chunk.js.map",
+    "static/js/3.63ce4aa5.chunk.js": "/GithubPagesTest/static/js/3.63ce4aa5.chunk.js",
+    "static/js/3.63ce4aa5.chunk.js.map": "/GithubPagesTest/static/js/3.63ce4aa5.chunk.js.map",
+    "index.html": "/GithubPagesTest/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/GithubPagesTest/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ca1bc8be.chunk.js.LICENSE.txt": "/GithubPagesTest/static/js/2.ca1bc8be.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GithubPagesTest/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e962450.js",
+    "static/js/runtime-main.10288847.js",
     "static/js/2.ca1bc8be.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.dca8a5cc.chunk.js"
